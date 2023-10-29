@@ -1,29 +1,23 @@
 ### Gemail-Hack
-
-### python script for Hack gmail account brute force 
-
-###  What is brute force attack?
+### python script for Hack gmail account brute force
+## What is brute force attack?
 ### In brute force attack,script or program try the each and every combination of password probability 
 ### to ack victim account.Brute force attack is the only successful method to hack account
 ### but this process will take long time depend upon the length of password.
 
-### git clone https://github.com/Ha3MrX/Gemail-Hack
-    
-### cd Gemail-Hack
+```git clone https://github.com/Unlimited-Crack-You/Gmail_Hack```
+</b>
+```cd Gmail_Hack```
+</p>
+```chmod +x gemailhack.py```
+</p>
+```python gemailhack.py```
 
-### chmod +x gemailhack.py
+## ScreenShot
+![capture1]()
 
-### python gemailhack.py
+## YouTube Channel
 
-### ScreenShot
+## Video Tutorial
 
-![capture1](https://user-images.githubusercontent.com/33704360/38995760-7b25ec4c-439e-11e8-9430-c33bd9b1f5b4.PNG)
-
-### YouTube Channel
-
-https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA
-
-### Video Tutorial
-
-https://www.youtube.com/watch?v=CZwNK6fOqEI&t=37s
 
